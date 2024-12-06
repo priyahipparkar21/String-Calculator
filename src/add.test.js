@@ -2,7 +2,7 @@
 function addTest(){
 
     //2+2=4
-    if (add("2,2") !=4){
+    if (add("2\n2") !=4){
       return false;
     }
   
